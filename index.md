@@ -1,7 +1,7 @@
 <img src="IMG_2613.JPG" alt="Rooks Hunter Avatar" width="128" height="128" align="center" border="2">
 
 <h2>Welcome!</h2>
-<h4>Hi! This is my online tech resumé. In this page, I will post the different certifications and tech skills I have acquired.</h4>
+<h4>Hi! This is my online tech resumé. On this page, I will post the different certifications and tech skills I have acquired. Hope you enjoy.</h4>
 <hr>
 
 <h2><b>Technical Skills</b></h2>
