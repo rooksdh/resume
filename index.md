@@ -26,9 +26,6 @@
 </details>
 
 <details closed>
-</details>
-
-<details closed>
   <summary><b>Linux</b></summary>
   <br>
   <p>Skills include:
