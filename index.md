@@ -21,7 +21,7 @@
     <li>Securing workflows</li>
 
   </ul>
-  <img src="github-1.png" alt="First Day on GitHub" width="600" height="400" border="2">
+  <img src="Screen Shot 2019-09-04 at 10.44.09 AM.png" alt="First Day on GitHub" width="600" height="400" border="2">
   <img src="github-2.png" alt="First Week on GitHub" width="600" height="400" border="2">
   </p>
 </details>
