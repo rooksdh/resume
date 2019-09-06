@@ -24,7 +24,10 @@
   <img src="github-2.png" alt="First Week on GitHub" width="600" height="400" border="2">
   </p>
 </details>
-hey
+
+<details closed>
+</details>
+
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
