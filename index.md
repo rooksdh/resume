@@ -39,7 +39,7 @@
 <details closed>
   <summary><b>PowerBI</b></summary>
   <br>
-  <p>Data analysis and visualization skills include:
+  <p>Skills include:
   <ul>
     <li></li>
 
