@@ -39,7 +39,7 @@
 <details closed>
   <summary><b>PowerBI</b></summary>
   <br>
-  <p>Skills include:
+  <p>Skills include: Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/xPzbK4cgHco">Rooks Hunter's Supplier Quality Analysis Dashboard</a>
   <ul>
     <li></li>
 
