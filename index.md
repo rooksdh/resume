@@ -39,11 +39,16 @@
 <details closed>
   <summary><b>PowerBI</b></summary>
   <br>
-  <p>Skills include: Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/xPzbK4cgHco">Rooks Hunter's Supplier Quality Analysis Dashboard</a>
-  <ul>
-    <li></li>
+  <p>I auditted the <a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-4"> Analyzing and Visualizong Data with Power BI</a> course by edX. This course taught me the intricacies of PowerBI and has allowed me to better understand how one can utilize PowerBI for analytical purposes. Below are a list of specific skills taught in the course along with a walkthrough of a personal dashboard I created.
+    <ul>
+    <li>Data Transformations</li>
+    <li>Managing Data</li>
+    <li>Optimizing Models</li>
+    <li>Utilizing Data Visualizations</li>
+    <li>Configuring Dashboards</li>
 
   </ul>
+  Click the following link for walkthrough of my Power BI dashboard: <a href="https://youtu.be/xPzbK4cgHco">Rooks Hunter's Supplier Quality Analysis Dashboard</a>
   </p>
 </details>
 
