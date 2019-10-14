@@ -40,7 +40,7 @@
 
   </ul>
   </p>
-    <img src="LinuxCertificate.PDF" alt="Linux Certificate" width="800" height="300" border="2">
+    <img src="LinuxCertificate.JPG" alt="Linux Certificate" width="800" height="300" border="2">
 </details>
 
 <details closed>
