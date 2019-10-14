@@ -28,12 +28,19 @@
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
-  <p>Skills include:
+  <p>I took the LPI Linux Essentials course offered in Linux Academy. Some of the specific skills I learned include:
   <ul>
-    <li></li>
+    <li>Understanding command line basics</li>
+    <li>Linux-embedded systems</li>
+    <li>Using directories and listing files</li>
+    <li>Archivig file using command line</li>
+    <li>Searching and exracting data from files</li>
+    <li>Understanding computer hardware</li>
+    <li>Managing file permissions and ownership</li>
 
   </ul>
   </p>
+    <img src="LinuxCertificate.PDF" alt="Linux Certificate" width="800" height="300" border="2">
 </details>
 
 <details closed>
