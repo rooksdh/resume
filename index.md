@@ -68,7 +68,7 @@
   <br>
     Below is a screen shot of three windows. The left two windows are pictures of ipleak.net. The middle window is what ipleak.net output when my Wireguard is activated. The far left is ipleak.net when Wireguard is deactivated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
   </p>
-<img src="PowerBICourse.JPG" alt="Power BI Proof of Completion" width="800" height="300" border="2">
+<img src="VPN_Proof.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
 
 </details>
 
