@@ -97,12 +97,18 @@
 <details closed>
   <summary><b>AWS</b></summary>
   <br>
-  <p>Skills include:
+  <p>I completed the AWS Essentials course on Linux Academy. This course taught me:
   <ul>
-    <li></li>
-
+    <li>The ins and outs of the AWS console</li>
+    <li>How to create an EC2 instance</li>
+    <li>How to create a VPC</li>
+    <li>How to utilize an ELB</li>
   </ul>
+  ... and much more! 
   </p>
+  
+  <img src="AWS_Essentials" alt="AWS Proof of Completion" width="550" height="200" border="2">
+  
 </details>
   
 <details closed>
