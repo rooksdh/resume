@@ -107,7 +107,7 @@
   ... and much more! 
   </p>
   
-  <img src="AWS_Essentials" alt="AWS Proof of Completion" width="550" height="200" border="2">
+  <img src="AWS_Essentials.PNG" alt="AWS Proof of Completion" width="350" height="350" border="2">
   
 </details>
   
