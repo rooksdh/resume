@@ -61,14 +61,23 @@
 </details>
 
 <details closed>
-  <summary><b>Algo VPN Configuration</b></summary>
+  <summary><b>VPN Configuration</b></summary>
   <br>
-  <p>In this task I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After then installng the Algo scripts and dependencies, I used Wireguard to configure my VPN. 
+  <p>In this task I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After then installng the Algo scripts and dependencies, I used Wireguard to configure my VPN.
   <br>
   <br>
     Below is a screen shot of three windows. The left two windows are pictures of ipleak.net. The middle window is what ipleak.net output when my Wireguard is activated. The far left is ipleak.net when Wireguard is deactivated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
   </p>
 <img src="VPN_Proof.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+<br>
+<br>
+<p>Below is a screen shot of the same concept. However, instead of using Digital Ocean, I set up an AWS EC2 instance to run my VPN.</p>
+
+<img src="algoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+
+<p>Lastly, I connected to an OpenVPN server through an AWS EC2 instance.</p>
+
+<img src="algoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
 
 </details>
 
