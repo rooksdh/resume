@@ -73,11 +73,13 @@
 <br>
 <p>Below is a screen shot of the same concept. However, instead of using Digital Ocean, I set up an AWS EC2 instance to run my VPN.</p>
 
-<img src="algoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
-
+<img src="AlgoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+<br>
+<br>
 <p>Lastly, I connected to an OpenVPN server through an AWS EC2 instance.</p>
 
-<img src="algoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+<img src="OpenVPN.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
+<img src="OpenVPN2.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
 
 </details>
 
