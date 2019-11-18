@@ -86,12 +86,24 @@
 <details closed>
   <summary><b>PowerShell</b></summary>
   <br>
-  <p>Skills include:
+  <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. Below is a list of the skills I learned during the training, followed by my proof of completion:
   <ul>
-    <li></li>
+    <li>Discovering commands using "Get-Help *_*"</li>
+    <li>Utilizing "Get-Service</li>
+    <li>Adding snappins for more cmdlets</li>
+    <li>Dynamic importing of modules</li>
+    <li>Connecting commands using: |</li>
+    <li>Importing and exporting XMLs and CSVs</li>
+    <li>Filtering information using gm (Get-Member)</li>
+    <li>Sorting objects through "Sort-Objects"</li>
+    <li>Comparing data using operators and "Where-Object"</li>
+    <li>Running script files</li>
+    <li>Utilizing variables and arrays</li>
+    <li>Utilizing powershell remoting through "Enter-PSSession"</li>
 
   </ul>
   </p> 
+  <img src="OpenVPN.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
 </details>
 
 <details closed>
