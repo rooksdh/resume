@@ -89,18 +89,13 @@
   <br>
   <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. More specifically, I learned how to discover commands using "Get-Help *<i>command</i>*", how to utilize "Get-Service", adding snappins for more cmdlets, dynamic importing of modules, comparing data using operators and "Where-Object", running script files and much more.  Below is a broader view of the topics covered during the training along with the certificate provided upon completion of the course:
   <ul>
-    <li></li>
-    <li>Utilizing "Get-Service"</li>
-    <li>Adding snappins for more cmdlets</li>
-    <li>Dynamic importing of modules</li>
-    <li>Connecting commands using: |</li>
-    <li>Importing and exporting XMLs and CSVs</li>
-    <li>Filtering information using gm (Get-Member)</li>
-    <li>Sorting objects through "Sort-Objects"</li>
-    <li>Comparing data using operators and "Where-Object"</li>
-    <li>Running script files</li>
-    <li>Utilizing variables and arrays</li>
-    <li>Powershell remoting through "Enter-PSSession"</li>
+    <li>Getting Ready for Powershell</li>
+    <li>Discovery and Getting Help</li>
+    <li>Extending Your Capabilities with Powershell</li>
+    <li>Using the Power of the Pipeline</li>
+    <li>Getting More out of Objects</li>
+    <li>Scripts and Automation</li>
+    <li>Scalable Management with Powershell Remoting</li>
 
   </ul>
   </p> 
