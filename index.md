@@ -87,7 +87,7 @@
 <details closed>
   <summary><b>PowerShell</b></summary>
   <br>
-  <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. Below is a list of the skills I learned during the training along with the certificate provided upon completion of the course:
+  <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. More specifically, I learned how to discover commands using "Get-Help *<i>command</i>*", how to utilize "Get-Service", adding snappins for more cmdlets, dynamic importing of modules, comparing data using operators and "Where-Object", running script files and much more.  Below is a broader view of the topics covered during the training along with the certificate provided upon completion of the course:
   <ul>
     <li>Discovering commands using "Get-Help *_*"</li>
     <li>Utilizing "Get-Service"</li>
