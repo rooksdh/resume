@@ -105,12 +105,15 @@
 <details closed>
   <summary><b>AWS</b></summary>
   <br>
-  <p>I completed the AWS Essentials course on Linux Academy. This course taught me:
+  <p>I completed the AWS Essentials course on Linux Academy. This course functioned as a guide for how to get started within AWS. Topics discussed included managing AWS access with users groups and roles, networking services and connectivity, compute services, storage services, database services, loadbalancing, elasticity, scalability, and serverless compute. In order illustrate my understanding of the previous topics, I took part in the following hands-on labs:
   <ul>
-    <li>The ins and outs of the AWS console</li>
-    <li>How to create an EC2 instance</li>
-    <li>How to create a VPC</li>
-    <li>How to utilize an ELB</li>
+    <li>Creating a basic function to shut down and EC2 instance</li>
+    <li>Setting up an application load balancer with an auto scaling group and route 53</li>
+    <li>Created an Amazon Aurora RDS database</li>
+    <li>Created a basic Amazon S3 lifecycle policy</li>
+    <li>Created Amazon S3 buckets, managing objects and enabling versioning</li>
+    <li>Created a Linux EC2 instance in AWS and connect using SSH</li>
+    <li>Created a basic VPC and associated components</li>
   </ul>
   ... and much more! 
   </p>
