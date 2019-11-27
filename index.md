@@ -9,7 +9,7 @@
 <details closed>
   <summary><b>GitHub</b></summary>
   <br>
-  <p>I completed the "First Day on Github" and "First Week on Github" Learning Paths. As a result of the training, I learned about the basic worflow and operations involved in utillizing Github to its full potential.
+  <p>I completed the "First Day on Github" and "First Week on Github" Learning Paths. As a result of the training, I learned about the basic workflow and operations involved in utillizing Github to its full potential.
     Skills developed include:
   <ul>
     <li>Communicating Using Markdown</li>
@@ -28,7 +28,7 @@
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
-  <p>I took the LPI Linux Essentials course offered in Linux Academy. Some of the specific skills I learned include:
+  <p>I took the 16-hour LPI Linux Essentials course offered in Linux Academy. This course provided me with a broad over view of the functions at one's disposal within Linux. Most of the course dealt utilizing the command line to achieve a specified task. Some of the specific topics discussed within the course included:
   <ul>
     <li>Understanding command line basics</li>
     <li>Linux-embedded systems</li>
@@ -61,22 +61,23 @@
 </details>
 
 <details closed>
-  <summary><b>VPN Configuration</b></summary>
+  <summary><b>VPN Configurations</b></summary>
   <br>
-  <p>In this task I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After then installng the Algo scripts and dependencies, I used Wireguard to configure my VPN.
+  <p>In this task I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my Algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After installng the Algo scripts and dependencies, I used Wireguard to configure my VPN.
   <br>
   <br>
-    Below is a screen shot of three windows. The left two windows are pictures of ipleak.net. The middle window is what ipleak.net output when my Wireguard is activated. The far left is ipleak.net when Wireguard is deactivated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
+    Below is a screen shot of three windows. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The middle window is the output displayed on ipleak.net when my Wireguard is activated. The far left is ipleak.net when Wireguard is deactivated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
   </p>
+  <h2>AlgoVPN through Digital Ocean</h2>
 <img src="VPN_Proof.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
 <br>
 <br>
-<p>Below is a screen shot of the same concept. However, instead of using Digital Ocean, I set up an AWS EC2 instance to run my VPN.</p>
+<h2>AlgoVPN through AWS EC2 instance</h2>
 
 <img src="AlgoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
 <br>
 <br>
-<p>Lastly, I connected to an OpenVPN server through an AWS EC2 instance.</p>
+<h2>OpenVPN through AWS EC2 instance</h2>
 
 <img src="OpenVPN.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
 <img src="OpenVPN2.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
@@ -86,7 +87,7 @@
 <details closed>
   <summary><b>PowerShell</b></summary>
   <br>
-  <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. Below is a list of the skills I learned during the training, followed by my proof of completion:
+  <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. Below is a list of the skills I learned during the training along with the certificate provided upon completion of the course:
   <ul>
     <li>Discovering commands using "Get-Help *_*"</li>
     <li>Utilizing "Get-Service"</li>
