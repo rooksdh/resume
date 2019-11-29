@@ -115,7 +115,6 @@
     <li>Created a Linux EC2 instance in AWS and connect using SSH</li>
     <li>Created a basic VPC and associated components</li>
   </ul>
-  ... and much more! 
   </p>
   
   <img src="AWS_Essentials.PNG" alt="AWS Proof of Completion" width="600" height="400" border="2">
