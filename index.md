@@ -28,7 +28,7 @@
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
-  <p>I completed the 16-hour LPI Linux Essentials course offered in Linux Academy. This course provided me with a broad over view of the functions available within Linux. Most of the course dealt utilizing the command line to achieve a specified task. Some of the specific topics discussed within the course included:
+  <p>I completed the 16-hour LPI Linux Essentials course offered in Linux Academy. This course provided a broad overview of the functions available within Linux specifically utilizing the command line to accomplish a task. Some of the specific topics discussed within the course included:
   <ul>
     <li>Understanding command line basics</li>
     <li>Linux-embedded systems</li>
