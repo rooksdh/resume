@@ -74,30 +74,6 @@
 </details>
 
 <details closed>
-  <summary><b>VPN Configurations</b></summary>
-  <br>
-  <p>In this task I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my Algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After installng the Algo scripts and dependencies, I used Wireguard to configure my VPN.
-  <br>
-  <br>
-    Below is a screen shot of three windows. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The far left is ipleak.net when Wireguard is deactivated. The middle window is the output displayed on ipleak.net when my Wireguard is activated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
-  </p>
-  <h2>AlgoVPN through Digital Ocean</h2>
-<img src="VPN_Proof.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
-<br>
-<br>
-<h2>AlgoVPN through AWS EC2 instance</h2>
-
-<img src="AlgoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
-<br>
-<br>
-<h2>OpenVPN through AWS EC2 instance</h2>
-
-<img src="OpenVPN.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
-<img src="OpenVPN2.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
-
-</details>
-
-<details closed>
   <summary><b>PowerShell</b></summary>
   <br>
   <p>I completed the <a href="https://www.linkedin.com/learning/powershell-5-essential-training"> PowerShell 5 Essential Training</a> found on LinkedIn Learning. This course taught me the basic ins-and-outs of PowerShell along with how to use it to optimize management. More specifically, I learned how to discover commands using "Get-Help *<i>command</i>*", how to utilize "Get-Service", adding snappins for more cmdlets, dynamic importing of modules, comparing data using operators and "Where-Object", running script files and much more.  Below is a broader view of the topics covered during the training along with the certificate provided upon completion of the course:
