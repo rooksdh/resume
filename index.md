@@ -46,7 +46,7 @@
 <details closed>
   <summary><b>PowerBI</b></summary>
   <br>
-  <p>I auditted the <a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-4"> Analyzing and Visualizong Data with Power BI</a> course by edX. This course taught me the intricacies of PowerBI including how to utilize PowerBI for analytical purposes. Below is a list of specific skills taught in the course along with a walkthrough of a personal dashboard I created.
+  <p>I auditted the <a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-4"> Analyzing and Visualizong Data with Power BI</a> course by edX. This course taught me the intricacies of PowerBI including how to utilize PowerBI for analytical purposes. Below is a list of specific skills taught in the course followed by a walkthrough of a personal dashboard I created.
     <ul>
     <li>Data Transformations</li>
     <li>Managing Data</li>
