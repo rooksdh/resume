@@ -41,6 +41,17 @@
   </ul>
   </p>
     <img src="LinuxCertificate.JPG" alt="Linux Certificate" width="600" height="400" border="2">
+   <br>
+   <br>
+  <p>To illustrate knowledge of Linux, I used Algo VPN to set up my personal Wireguard and IPSEC VPN. In order to run my Algo server, I ran it on my local system and let it set up a new virtual machine for me. I used Digital Ocean as my cloud hosting provider, and I created an Ubuntu virtual machine. After installng the Algo scripts and dependencies, I used Wireguard to configure my VPN.
+    <br>
+    <br> Below is a PoC of my VPN. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The far left is ipleak.net when Wireguard is deactivated. The middle window is the output displayed on ipleak.net when my Wireguard is activated. Lastly, the far right window is Digital Ocean, which contains my VPN IP address.
+  </p>
+  <h2>AlgoVPN through Digital Ocean</h2>
+<img src="VPN_Proof.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+<br>
+<br>
+    
 </details>
 
 <details closed>
