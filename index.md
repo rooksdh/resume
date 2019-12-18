@@ -124,11 +124,16 @@
 <details closed>
   <summary><b>Salesforce</b></summary>
   <br>
-  <p>Skills include:
+  <p>I went through the Admin Beginner Trail on Trailhead in order to introduce myself to Salesforce. Through the course I was able to learn a lot about how organizations can customize their customer relationship platforms. Some of the specific topics I learned were how to import and export data, use the schema builder for editing entities, create custom buttons and links and prompting user engagements.  The specific modules I covered within this Trail were:
   <ul>
-    <li></li>
-
+    <li>Salesforce Platform Basics</li>
+    <li>Data Modeling</li>
+    <li>Data Management</li>
+    <li>Lightning Experience Customization</li>
+    <li>Salesforce Mobile App Customization</li>
+    <li>User Engagement</li>
+    <li>Reports and Dashboards for Lightning Experience</li>
   </ul>
   </p> 
-  <img src="Salesforce.PNG" alt="AWS Proof of Completion" width="500" height="100" border="2">
+  <img src="Salesforce.PNG" alt="AWS Proof of Completion" width="700" height="175" border="2">
 </details>
