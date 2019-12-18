@@ -131,7 +131,21 @@
   </p>
   
   <img src="AWS_Essentials.PNG" alt="AWS Proof of Completion" width="600" height="400" border="2">
+  <br>
+  <br>
+  <p>Furthermore, I created a VPN to illustrate my knowledge of AWS. I utilized Algo VPN and OpenVPN in setting up EC2 Instances. In doing so, I also had to create a customer gateway, virtual private gateway and VPN connection within AWS.
+    <br>
+    <br> Below is a PoC of my VPN. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The far left is ipleak.net when Wireguard is deactivated. The middle window is the output displayed on ipleak.net when my Wireguard is activated. Lastly, the far right window is AWS, which contains my VPN IP address.
   
+  <h2>AlgoVPN through AWS EC2 instance</h2>
+
+<img src="AlgoVPNaws.PNG" alt="Algo VPN Proof of Completion" width="650" height="300" border="2">
+<br>
+<br>
+<h2>OpenVPN through AWS EC2 instance</h2>
+
+<img src="OpenVPN.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
+<img src="OpenVPN2.PNG" alt="Algo VPN Proof of Completion" width="550" height="200" border="2">
 </details>
   
 <details closed>
