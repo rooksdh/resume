@@ -59,7 +59,7 @@
   </ul>
   Click the following link for walkthrough of my Power BI dashboard: <a href="https://youtu.be/xPzbK4cgHco">Rooks Hunter's Supplier Quality Analysis Dashboard</a>
   </p>
-  <img src="PowerBIScreenshot.PNG" alt="Power BI Screenshot" width="800" height="300" border="2">
+  <img src="PowerBIScreenshot.JPG" alt="Power BI Screenshot" width="800" height="300" border="2">
 </details>
 
 <details closed>
