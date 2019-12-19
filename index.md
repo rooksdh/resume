@@ -111,7 +111,9 @@
   <br>
   <p>Furthermore, I created a VPN to illustrate my knowledge of AWS. I utilized Algo VPN and OpenVPN in setting up EC2 Instances. In doing so, I also had to create a customer gateway, virtual private gateway and VPN connection within AWS.
     <br>
-    <br> Below is a PoC of my VPN. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The far left is ipleak.net when Wireguard is deactivated. The middle window is the output displayed on ipleak.net when my Wireguard is activated. Lastly, the far right window is AWS, which contains my VPN IP address.
+    <br> 
+  Below is a PoC of my VPN. The left two windows are pictures of <a href="ipleak.net">ipleak.net</a>. The far left is ipleak.net when Wireguard is deactivated. The middle window is the output displayed on ipleak.net when my Wireguard is activated. Lastly, the far right window is AWS, which contains my VPN IP address.
+  </p>
   
   <h2>AlgoVPN through AWS EC2 instance</h2>
 
@@ -140,4 +142,3 @@
   </p> 
   <img src="Salesforce.PNG" alt="AWS Proof of Completion" width="700" height="175" border="2">
 </details>
-<details closed>
